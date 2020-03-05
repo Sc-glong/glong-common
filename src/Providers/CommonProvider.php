@@ -1,8 +1,9 @@
 <?php
 namespace App\Providers;
+
 use App\Libraries\Common;
 use Illuminate\Support\ServiceProvider;
-class CommmonProvider extends ServiceProvider
+class CommonProvider extends ServiceProvider
 {
     public function boot(){
 
