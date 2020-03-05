@@ -2,7 +2,7 @@
 namespace App\Libraries;
 use Request;
 
-class common
+class Common
 {
     /**
      * 填充默认的header信息
