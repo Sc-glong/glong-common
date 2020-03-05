@@ -1,6 +1,6 @@
 <?php
 namespace App\Libraries;
-use request;
+use Request;
 
 class common
 {
